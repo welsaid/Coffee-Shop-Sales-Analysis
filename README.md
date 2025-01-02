@@ -15,7 +15,7 @@ This project aims to construct a comprehensive dashboard that provide insights i
 
 ### Data Sources
 
-The primary dataset used for this analysis is the "coffe_shop_sales.xlsx" file, containing detailed information about each sale made by the company.
+The primary dataset used for this analysis is the "coffee_shop_sales.xlsx" file, containing detailed information about each sale made by the company.
 
 ### Tools Used
 
