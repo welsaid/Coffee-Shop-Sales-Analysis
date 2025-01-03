@@ -55,7 +55,7 @@ Key Performance Indicators (KPIs)
     
 3. Sales by Product Category
 
-   ![barchart](https://github.com/user-attachments/assets/0c13066f-9881-4f6f-b7ec-dc16cbe98853)
+    ![sales by cat](https://github.com/user-attachments/assets/08055478-f6d6-4194-b343-bf46b3c12d88)
 
    - Coffee and Tea followed by Bakery generates the highest sales of **$270K**, **$196K** and **$82K** respectively
    - Coffee, Tea and Bakery had total sales which exceeded the average sale price of **$77.65K**
@@ -63,7 +63,7 @@ Key Performance Indicators (KPIs)
      
 5. Product Category (Table)
 
-![table1](https://github.com/user-attachments/assets/ab879a62-2658-44ca-af3e-dcba834d3eb1)
+   ![table1](https://github.com/user-attachments/assets/ab879a62-2658-44ca-af3e-dcba834d3eb1)
 
    - This table provides a detailed data of product categories, offering a comprehensive view of each product category. It includes key information such as the total sales, average unit price and quantity sold of each product category
 
@@ -72,7 +72,7 @@ The monthly sales analysis provides a comprehensive view of sales performance fo
 
 1. Sales by Product Category (Latest Month vs. Previous Month)
 
-![clustered bar-chart](https://github.com/user-attachments/assets/da10fb89-cc34-4305-9bc5-6da65618cd91)
+    ![powerbi portfolio projectww_page-0001](https://github.com/user-attachments/assets/8c3214f4-f92b-4654-9a98-445fe72c2c6b)
 
    - January has no record for previous month sales because sales began on January
    - February had the lowest sales performance with negative growth rate for all product categories
@@ -80,19 +80,22 @@ The monthly sales analysis provides a comprehensive view of sales performance fo
 
 3. Sales by Day
 
-![stacked colum-chart](https://github.com/user-attachments/assets/b0e3a52c-d609-4baf-8bc0-09356b0ecb3e)
+   ![stacked colum-chart](https://github.com/user-attachments/assets/b0e3a52c-d609-4baf-8bc0-09356b0ecb3e)
 
    - Sales are highest at the middle of each month, each day sales exceeding the average sales of that month
    - Sales are the lowest towards the ending of each month, each day sales falling below the average sales of that month
 
 #### Customer Behaviour Analysis
 1. Peak Sales Time
+
+    ![peak sales_page-0001](https://github.com/user-attachments/assets/1564ca9a-4632-4afb-8ebd-0f5a455af021)
+
    - Sales rise from 6 AM, peaking at 10 AM daily for each month
    - After 10 AM, sales decline gradually and stabilizes between 12 PM and 5 PM
 
-2. Products by Sale (Top and Bottom 10)
+3. Products by Sale (Top and Bottom 10)
 
-![table2](https://github.com/user-attachments/assets/20c01df6-5001-4c7b-802d-3c739261ed18)
+   ![product-sale(top)_page-0001](https://github.com/user-attachments/assets/635b2a1d-ce9c-41ef-bfe7-d0784ca49309)  ![product-sale(bottom)_page-0001](https://github.com/user-attachments/assets/a57c3755-72fd-4cd6-aa96-ed889b9d1325)
 
    - Dark Chocolate Lg is the top product by sale for the months of January, February and April
    - Sustainably Grown Organic Lg is the top product by sale for the months of March, May and June
