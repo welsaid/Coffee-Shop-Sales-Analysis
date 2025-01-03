@@ -1,13 +1,14 @@
 # Coffee Shop Sales Analysis
 
+![dashboard](https://github.com/user-attachments/assets/a01b177a-b4cb-4a90-91d9-be1cb83c1f81)
+
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Data Sources](#data-sources)
 - [Tools Used](#tools-used)
-- [Data Cleaning/Preparation](#data-cleaning/preparation)
+- [Data Preparation](#data-preparation)
 - [Data Analysis](#data-analysis)
 - [Recommendations](#recommendations)
-- [Additional Dashboard Images](#additional-dashbaord-images)
 
 ### Project Overview
 
@@ -22,7 +23,7 @@ The primary dataset used for this analysis is the "coffee_shop_sales.xlsx" file,
 - Power Query: Data Cleaning
 - Power BI: Analysis and Dashboard
 
-### Data Cleaning/Preparation
+### Data Preparation
 
 In the initial data preparation phase, we performed the following tasks:
 - Data loading and inspection
@@ -38,20 +39,29 @@ Key Performance Indicators (KPIs)
 
 #### Sales Overview
 1. Monthly Sales
+
+   ![column chart](https://github.com/user-attachments/assets/963dffc6-d27e-4986-8f22-84d3e71ddfff)
+
    - Total Sales doubled from **$82K** in January to **$166K** in June, reflecting a significant growth over six months
    - January, February and March recorded the lowest total sales of **$82K**, **$76K** and **$99K** respectively, all falling below the average sales price of **$116.47K**
    - April, May and June have the highest total sales of **$199K**, **$157K** and **$166K** respectively, all exceeding the average sales price of **$116.47K**
 
 2. Sales and Quantity by Store
+
+   ![donut chart](https://github.com/user-attachments/assets/1b073c99-f4c4-4bac-b033-31a415b5c04a)
+
    - Hell’s Kitchen store had the highest sales of **$237K** (33.84%) among all three stores, followed closely by Astoria, **$232K** (33.23%) and Lower Manhattan, **$230K** (32.92%)
    - Lower Manhattan and Hell’s Kitchen both had the same quantities sold of **71.373** and Astoria store has the lowest quantities sold of **70,991**
     
 3. Sales by Product Category
+
+   ![barchart](https://github.com/user-attachments/assets/0c13066f-9881-4f6f-b7ec-dc16cbe98853)
+
    - Coffee and Tea followed by Bakery generates the highest sales of **$270K**, **$196K** and **$82K** respectively
    - Coffee, Tea and Bakery had total sales which exceeded the average sale price of **$77.65K**
    - Coffee having the highest total sales makes it a strong sales drive for the business
      
-4. Product Category (Table)
+5. Product Category (Table)
    - This table provides a detailed data of product categories, offering a comprehensive view of each product category. It includes key information such as the total sales, average unit price and quantity sold of each product category
 
 #### Monthly Sales Analysis
