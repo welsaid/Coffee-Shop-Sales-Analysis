@@ -7,7 +7,7 @@
 - [Data Sources](#data-sources)
 - [Tools Used](#tools-used)
 - [Data Preparation](#data-preparation)
-- [Data Analysis](#data-analysis)
+- [Insights](#insights)
 - [Recommendations](#recommendations)
 
 ### Project Overview
@@ -30,7 +30,7 @@ In the initial data preparation phase, we performed the following tasks:
 - Handling missing values
 - Data cleaning and formatting
 
-### Data Analysis
+### Insights
 
 Key Performance Indicators (KPIs)
 - Total Sales: **$698,812**
