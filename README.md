@@ -105,7 +105,7 @@ The monthly sales analysis provides a comprehensive view of sales performance fo
 Based on the findings, we recommend the following actions:
 - Expand Morning Rush Capacity. Since sales peak from 6 AM to 10 AM, consider adding more baristas, self-service kiosks, or express counters during these hours to reduce wait times and handle the rush effectively
 - Promote Afternoon Specials. Sales remain uniform between 12 PM and 5 PM, suggesting an opportunity to boost this period with promotions like discounts or combo deals
-- Enhance Product Variety. Since Hot Chocolate and Barista Espresso are popular, consider introducing seasonal or limited-time variations of these drinks to maintain interest and attract repeat customers
+- Enhance Product Variety. Since hot chocolate and barista espresso are popular, consider introducing seasonal or limited-time variations of these drinks to maintain interest and attract repeat customers
 
 Explore the full interactive dashboard here
 
