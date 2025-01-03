@@ -62,17 +62,26 @@ Key Performance Indicators (KPIs)
    - Coffee having the highest total sales makes it a strong sales drive for the business
      
 5. Product Category (Table)
+
+![table1](https://github.com/user-attachments/assets/ab879a62-2658-44ca-af3e-dcba834d3eb1)
+
    - This table provides a detailed data of product categories, offering a comprehensive view of each product category. It includes key information such as the total sales, average unit price and quantity sold of each product category
 
 #### Monthly Sales Analysis
 The monthly sales analysis provides a comprehensive view of sales performance for each month in comparison to the previous month, showcasing the growth rate. For us to achieve this, a month needs to be selected on the slicer
 
 1. Sales by Product Category (Latest Month vs. Previous Month)
+
+![clustered bar-chart](https://github.com/user-attachments/assets/da10fb89-cc34-4305-9bc5-6da65618cd91)
+
    - January has no record for previous month sales because sales began on January
    - February had the lowest sales performance with negative growth rate for all product categories
    - March had the highest growth rate, followed closely by April, May and June
 
-2. Sales by Day
+3. Sales by Day
+
+![stacked colum-chart](https://github.com/user-attachments/assets/b0e3a52c-d609-4baf-8bc0-09356b0ecb3e)
+
    - Sales are highest at the middle of each month, each day sales exceeding the average sales of that month
    - Sales are the lowest towards the ending of each month, each day sales falling below the average sales of that month
 
@@ -82,6 +91,9 @@ The monthly sales analysis provides a comprehensive view of sales performance fo
    - After 10 AM, sales decline gradually and stabilizes between 12 PM and 5 PM
 
 2. Products by Sale (Top and Bottom 10)
+
+![table2](https://github.com/user-attachments/assets/20c01df6-5001-4c7b-802d-3c739261ed18)
+
    - Dark Chocolate Lg is the top product by sale for the months of January, February and April
    - Sustainably Grown Organic Lg is the top product by sale for the months of March, May and June
    - Dark Chocolate is the lowest product by sale from January to June
