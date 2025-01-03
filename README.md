@@ -37,7 +37,7 @@ Key Performance Indicators (KPIs)
 - Total Transactions: **149,116**
 
 #### Sales Overview
-1. Monthly Sales Analysis
+1. Monthly Sales
    - Total Sales doubled from **$82K** in January to **$166K** in June, reflecting a significant growth over six months
    - January, February and March recorded the lowest total sales of **$82K**, **$76K** and **$99K** respectively, all falling below the average sales price of **$116.47K**
    - April, May and June have the highest total sales of **$199K**, **$157K** and **$166K** respectively, all exceeding the average sales price of **$116.47K**
