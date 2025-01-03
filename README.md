@@ -107,5 +107,7 @@ Based on the findings, we recommend the following actions:
 - Promote Afternoon Specials. Sales remain uniform between 12 PM and 5 PM, suggesting an opportunity to boost this period with promotions like discounts or combo deals
 - Enhance Product Variety. Since Hot Chocolate and Barista Espresso are popular, consider introducing seasonal or limited-time variations of these drinks to maintain interest and attract repeat customers
 
+Explore the full interactive dashboard here
+
 
    
