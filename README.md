@@ -1,6 +1,8 @@
 # Coffee Shop Sales Analysis
 
 ![dashboard](https://github.com/user-attachments/assets/a01b177a-b4cb-4a90-91d9-be1cb83c1f81)
+<p align="center">Explore the full interactive dashboard <a href="https://app.powerbi.com/view?r=eyJrIjoiODEwMjE5MzUtOTg1OC00ZGU1LWI4M2MtMjc1Yzc0YTVhYzFmIiwidCI6IjI1Y2UwMjYxLWJiZDYtNDljZC1hMWUyLTU0MjYwODg2ZDE1OSJ9&pageName=c064ccf24ce3642ee791">here</a>
+</p>
 
 ## Table of Contents
 - [Project Overview](#project-overview)
@@ -106,8 +108,6 @@ Based on the findings, we recommend the following actions:
 - Expand Morning Rush Capacity. Since sales peak from 6 AM to 10 AM, consider adding more baristas, self-service kiosks, or express counters during these hours to reduce wait times and handle the rush effectively
 - Promote Afternoon Specials. Sales remain uniform between 12 PM and 5 PM, suggesting an opportunity to boost this period with promotions like discounts or combo deals
 - Enhance Product Variety. Since hot chocolate and barista espresso are popular, consider introducing seasonal or limited-time variations of these drinks to maintain interest and attract repeat customers
-
-Explore the full interactive dashboard here
 
 
    
