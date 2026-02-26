@@ -1,14 +1,11 @@
 # Coffee Shop Sales Analysis
 
-![dashboard](https://github.com/user-attachments/assets/a01b177a-b4cb-4a90-91d9-be1cb83c1f81)
-<p align="center">Explore the full interactive dashboard <a href="https://app.powerbi.com/view?r=eyJrIjoiMDQyODI3ZDktMGIzYy00MzNjLTkzMDMtZGZiYmQ1YTBhZDAyIiwidCI6IjI1Y2UwMjYxLWJiZDYtNDljZC1hMWUyLTU0MjYwODg2ZDE1OSJ9&pageName=c064ccf24ce3642ee791">here</a>
-</p>
-
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Data Sources](#data-sources)
 - [Tools Used](#tools-used)
 - [Data Preparation](#data-preparation)
+- [Dashboard](#dashboard)
 - [Insights](#insights)
 - [Recommendations](#recommendations)
 
@@ -31,6 +28,9 @@ In the initial data preparation phase, we performed the following tasks:
 - Data loading and inspection
 - Handling missing values
 - Data cleaning and formatting
+
+### Dashboard
+<img width="2878" height="4830" alt="Picture1" src="https://github.com/user-attachments/assets/e51c96d0-558c-46a7-a7a6-1b55ef5e8bba" />
 
 ### Insights
 
